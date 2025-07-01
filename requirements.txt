@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pywebview
+mss
+keyboard
+pywin32
+pymongo
+WMI
+requests
+ahk
