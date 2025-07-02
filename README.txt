@@ -1,8 +1,6 @@
-# Mangoguards Dig Tool - Standalone Executable
-
+# Mangoguards Dig Tool 
 ## How to Run
 1. Double-click `MangoguardsDig.exe` to start the application
-2. Or use the launcher script `run_mangoguards.bat` for easier troubleshooting
 
 ## Hotkeys
 - F1: Start/Stop Auto-Dig or Boss Killer
@@ -26,4 +24,4 @@
 - Use F3 to select the detection region
 - Adjust settings through the web interface
 
-Generated with PyInstaller
+
