@@ -18,7 +18,7 @@
 
 ## Troubleshooting
 - If the application doesn't start, try running as Administrator
-- Make sure you have the latest Visual C++ Redistributable installed
+- or try downloading python, and run run_first.bat
 - Check that no antivirus is blocking the executable
 
 ## Support
